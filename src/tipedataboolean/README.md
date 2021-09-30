@@ -14,3 +14,6 @@ boolean salah = false;
 System.out.println(benar);
 System.out.println(salah);
 ```
+
+#### Result : 
+![ss1](screenshot/ss1.png)
