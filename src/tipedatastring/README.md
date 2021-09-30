@@ -14,6 +14,9 @@ System.out.println(firstname);
 System.out.println(lastname);
 ```
 
+#### Result :
+![ss1](screenshot/ss1.png)
+
 # Kode : Menggabungkan String
 ```java
 String firstname = "Dhimas Bayu";
@@ -24,3 +27,6 @@ System.out.println(firstname);
 System.out.println(lastname);
 System.out.println(fullname);
 ```
+
+#### Result :
+![ss1](screenshot/ss2.png)
