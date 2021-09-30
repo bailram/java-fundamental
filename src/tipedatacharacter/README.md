@@ -13,3 +13,6 @@ System.out.print(e);
 System.out.print(k);
 System.out.print(o);
 ```
+
+#### Result : 
+![ss1](screenshot/ss1.png)
