@@ -21,6 +21,9 @@ long iniLong2 = 0L;
 long iniLong3 = 0l;
 ```
 
+#### Result : 
+![ss1](screenshot/ss1.png)
+
 ## Floating Point Number
 Bisa dibilang bilangan pecahan
 
@@ -36,6 +39,9 @@ float iniFloat = 3.14F;
 double iniDouble = 3.14;
 ```
 
+#### Result :
+![ss2](screenshot/ss2.png)
+
 ## Kode : Literals
 penulisan angka menggunakan format lain. contoh :
 menambahkan 0x untuk hexa decimal dan menambahkan 0b untuk binary decimal
@@ -46,6 +52,9 @@ int hexInt = 0xA132B;
 int binInt = 0b01010101;
 ```
 
+#### Result : 
+![ss3](screenshot/ss3.png)
+
 ## Kode : Underscore
 fitur ini mulai versi 7/8 bisa menambahkan pemisah untuk mempermudah membaca
 
@@ -53,6 +62,9 @@ fitur ini mulai versi 7/8 bisa menambahkan pemisah untuk mempermudah membaca
 long balance = 1_000_000_000_000L;
 long sum = 60_000_000;
 ```
+
+#### Result : 
+![ss4](screenshot/ss4.png)
 
 ## Konversi Tipe Data Number
 - Widening Casting (Otomatis) : <br/>  byte -> short -> int -> long -> float -> double
